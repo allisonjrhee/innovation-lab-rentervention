@@ -1,5 +1,7 @@
 # innovation-lab-rentervention
-# created by Allison Rhee
+
+Authors:
+Allison Rhee (github.com/allisonjrhee)
 
 CS 397 Innovation Lab: Building Technologies for the Law
 
